@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="38px" viewBox="0 0 21 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sample-Page-Black-#1" transform="translate(-1306.000000, -2642.000000)" fill="#23DBB9">
+            <g id="03---Slider" transform="translate(-1.000000, 2018.000000)">
+                <g id="Controls" transform="translate(113.000000, 624.000000)">
+                    <g id="Icon-/-Interface-/-Arrow-Hover" transform="translate(1194.000000, 0.000000)">
+                        <g id="Icon-/-Interface-/-Arrow-Basic-Copy" transform="translate(10.755901, 19.000000) rotate(-180.000000) translate(-10.755901, -19.000000) translate(0.255901, 0.000000)">
+                            <path d="M2.8579861,18.9990046 L20.0194049,1.83758579 C20.4414722,1.41551842 20.4414722,0.738617907 20.0194049,0.316550532 C19.5973375,-0.105516844 18.920437,-0.105516844 18.4983696,0.316550532 L0.572451442,18.2424687 C0.150384066,18.6645361 0.150384066,19.3414366 0.572451442,19.763504 L18.4983696,37.6814586 C18.7054215,37.8885105 18.9841453,38 19.2549055,38 C19.5256657,38 19.8043894,37.896474 20.0114413,37.6814586 C20.4335087,37.2593912 20.4335087,36.5824907 20.0114413,36.1604233 L2.8579861,18.9990046 L2.8579861,18.9990046 Z" id="Icon-/-Interface-/-Arrow-Basic" transform="translate(10.295928, 19.000000) rotate(-360.000000) translate(-10.295928, -19.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
